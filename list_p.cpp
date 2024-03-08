@@ -52,6 +52,7 @@ int main(){
         cout << fale->Name << endl;
         fale = fale->next;
     }
+    
     while ( fale != nullptr){
 
         cout << fale->Name << endl;
