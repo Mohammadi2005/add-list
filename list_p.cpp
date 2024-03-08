@@ -45,7 +45,6 @@ int main(){
         }
     }
      
-    //fale = sar;
 
     while ( fale != nullptr){
 
